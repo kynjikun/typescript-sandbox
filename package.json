@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --inline --progress --config webpack.config.js",
-    "build": "webpack"
+    "build": "npx webpack"
   },
   "author": "",
   "license": "ISC",
