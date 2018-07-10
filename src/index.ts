@@ -1,5 +1,1 @@
-function sayHello(name: string) {
-    console.log(name)
-}
-
-sayHello("k")
+console.log("Hello World")
