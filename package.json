@@ -4,7 +4,7 @@
   "description": "typescript playground",
   "main": "src/index.js",
   "scripts": {
-    "test": "node lib/basicTypes.js",
+    "test": "node lib/sample/interfaces/AdvanceInterface.js",
     "build": "tsc"
   },
   "repository": {
